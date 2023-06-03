@@ -1,0 +1,17 @@
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\bin\Debug\Database1.mdf
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\bin\Debug\Database1_log.ldf
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\bin\Debug\Project-iste.exe.config
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\bin\Debug\Project-iste.exe
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\bin\Debug\Project-iste.pdb
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\bin\Debug\Guna.UI2.dll
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\obj\Debug\Project_iste.Account.resources
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\obj\Debug\Project_iste.Form1.resources
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\obj\Debug\Project_iste.NotePanel.resources
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\obj\Debug\Project_iste.Properties.Resources.resources
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\obj\Debug\Project_iste.Write_Note.resources
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\obj\Debug\Project.csproj.CopyComplete
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\obj\Debug\Project-iste.exe
+C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\obj\Debug\Project-iste.pdb
