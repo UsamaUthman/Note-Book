@@ -24,7 +24,7 @@ namespace Project_iste
         DataTable dt3 = new DataTable();
         DataTable dt4 = new DataTable();
 
-        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\Database1.mdf;Integrated Security=True ; MultipleActiveResultSets=true");
+        SqlConnection con = new SqlConnection(@"MultipleActiveResultSets=true");
 
         public Account()
         {
