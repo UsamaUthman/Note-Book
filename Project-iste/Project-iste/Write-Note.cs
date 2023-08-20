@@ -15,7 +15,7 @@ namespace Project_iste
     public partial class Write_Note : Form
     {
         public static NotePanel note;
-        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\Database1.mdf;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"");
         DataTable dt = new DataTable();
         DataTable dt2 = new DataTable();
         public Write_Note()
