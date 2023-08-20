@@ -15,7 +15,7 @@ namespace Project_iste
 {
     public partial class Form1 : Form
     {
-        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\osama\source\repos\my_github\Usama-USKH\Project-iste\Project-iste\Database1.mdf;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"");
         SqlCommand com;
 
         public static string userid;
